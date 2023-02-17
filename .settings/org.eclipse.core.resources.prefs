@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding/encode_faces.py=UTF-8
+encoding/recognize_faces_image.py=UTF-8
+encoding/recognize_faces_images_donle.py=UTF-8
+encoding/recognize_faces_video_file.py=UTF-8
